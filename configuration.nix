@@ -43,7 +43,11 @@ in {
     nano
     wget
     htop
+    btop
     glances
+    git
+    parted
+    gnufdisk
   ];
 
   # Enable the OpenSSH daemon.
